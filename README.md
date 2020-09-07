@@ -9,5 +9,5 @@ Data in this application was taken from the official NASA Website , this applica
 changes. 
 You can Modify this application accourding to your needs incase you want to visualize something else.
 
-### Get started git clone https://kartik18g.github.io/Global-temperatures/
-
+### Get started
+git clone https://github.com/Kartik18g/Global-temperatures.git
